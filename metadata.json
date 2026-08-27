@@ -1,0 +1,6 @@
+{
+  "name": "StudySphere",
+  "description": "A workspace-booking platform prototype for students and professionals to find quiet study spots, cafes, and private desks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
